@@ -47,9 +47,15 @@ This repository contains a C++ implementation of the popular 2048 game.
     ```
 
 ## Screenshots
+### Game Play
 
+![Game Play](GamePlay.jpg)
+*Gameplay in progress.*
 
+### Start Window
 
+![Start Window](StartWindow.jpg)
+*Initial start window.*
 
 ## Acknowledgments
 
